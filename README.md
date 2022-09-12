@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**gustborges/gustborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm **Gustavo Borges**, a **Full-Stack Web Developer** currently working with **Ruby on Rails** and **React**. My background: I've graduated on Social Communications, specialized in Advertising, and have two post-graduations: Digital Design and a Marketing MBA. During my whole career (18+ years), I had the change to work in big, medium and small companies/projects, to experience different kinds of challenges and even begin my own company while traveling the world. I'm naturally an adventurous and curious person, always willing to learn more and I'm very passionate about my work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More info in LinkedIn: https://linkedin.com/in/borgesgustavo.
+
+- 🔭 **I’m currently working at** Marble Inc. (Finland) that builds products to enhance Customer Education and Engagement. Check www.marbleflows.com.
+
+- 🌱 **I’m currently learning:**
+  - Data Structures, Algorithms and Dynamic Programming.
+  - Performance enhancements on React apps.
+  - Typescript.
+  - AWS.
+  - Docker.
+
+## 🛠️ Skills
+
+- **Programming Languages & Frameworks:** Ruby, Ruby on Rails, Javascript, React, jQuery, GraphQL, Apollo, Rspec, Material UI, Bootstrap, CSS/Sass, SQL, HTML.
+- **Databases:** PostgreSQL.
+- **Tools:** VSCode, IntelliJ, DBeaver, TablePlus, AWS S3.
+- **Design:** Figma, Photoshop, Illustrator.
+- **Languages:** Portuguese (native), English (fluent), Spanish (fluent), French (intermmediate), Russian (basic).
+
